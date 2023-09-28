@@ -8,8 +8,6 @@ A shopping cart created in TypeScript+React and Vite, the focus is on the functi
 ![WhatsApp Image 2023-09-28 at 12 39 51 PM](https://github.com/mareyam/Typescript-React-Shopping-Cart/assets/63284481/d10fe906-c4c8-4bf1-bc31-3cff5a623ca3)![cart](https://github.com/mareyam/Typescript-React-Shopping-Cart/assets/63284481/f5265d6d-c7ca-4d6e-a995-e62ad461acdc)
 ![WhatsApp Image 2023-09-28 at 12 39 51 PM](https://github.com/mareyam/Typescript-React-Shopping-Cart/assets/63284481/8be8a5fa-e61e-4be0-9680-8f1b8534afbc)
 
-![cart](https://github.com/mareyam/Typescript-React-Shopping-Cart/assets/63284481/d7cfc557-f473-435b-8f03-8c425979ea67)
-
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
